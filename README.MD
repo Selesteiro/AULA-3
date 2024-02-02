@@ -38,10 +38,11 @@
 
 1. Abra a página do seu repositório no GitHub.
 2. Clique no botão "Settings" (Configurações).
-3. Selecione "Manage access" (Gerenciar acesso).
-4. Clique em "Invite a collaborator" (Convidar um colaborador).
+4. Clique em "Collaborators" (Settings).
+4. Selecione "Manage access" (Gerenciar acesso).
+4. Clique em "Add People" (Convidar um colaborador).
 5. Na caixa de diálogo, digite os endereços de e-mail dos seus colegas e professora.
-6. Clique em "Add [usuários] to [seu repositório]" para enviar convites por e-mail.
+6. Clique em "Select a collaborator" para enviar convites por e-mail.
 
 #### Observações:
 
