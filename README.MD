@@ -20,3 +20,4 @@
 # 6. Faça pull de alterações:
 #    - Clique em "Repository" > "Fetch origin" para verificar por alterações remotas.
 #    - Clique em "Repository" > "Pull origin" para trazer as alterações locais.
+ç
