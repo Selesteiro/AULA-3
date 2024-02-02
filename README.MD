@@ -20,3 +20,24 @@
 # 6. Por fim se você prcisar fazer alterações no projeto, você deve usar o pull para alterações:
 #    - Clique em "Repository" > "Pull origin" para trazer as alterações locais.
 #
+# Convite de Colaboradores para o Projeto
+
+## GitHub:
+
+### 1. No GitHub:
+
+1. Acesse a página do seu repositório no GitHub.
+2. Clique na aba "Settings" (Configurações) no menu superior.
+3. Na barra lateral esquerda, clique em "Manage access" (Gerenciar acesso).
+4. Clique no botão "Invite a collaborator" (Convidar um colaborador).
+5. Digite os nomes de usuário ou endereços de e-mail dos seus colegas e professora.
+6. Selecione os usuários desejados.
+7. Clique em "Add [usuários] to [seu repositório]" para enviar os convites.
+
+### 2. Via e-mail:
+
+1. Abra a página do seu repositório no GitHub.
+2. Clique no botão "Settings" (Configurações).
+3. Selecione "Manage access" (Gerenciar acesso).
+4. Clique em "Invite a collaborator" (Convidar um colaborador).
+5. Na caixa de diálogo, digite os end
