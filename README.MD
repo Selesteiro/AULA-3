@@ -14,7 +14,7 @@
 #    - Digitei uma mensagem, coloquei as informações sobre o arquivo e cliquei em "Commit to main" .
 
 # 5. Fiz o push para o GitHub:
-#    - Cliquei em "Push b".
+#    - Cliquei em "Push branch".
 #    - Selecionei o branch e clique em "Push origin".
 
 # 6. Faça pull de alterações:
