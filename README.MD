@@ -17,7 +17,5 @@
 #    - Cliquei em "Push branch".
 #    - Selecionei o branch e clique em "Push origin".
 
-# 6. Por fim  pull de alterações:
-#    - Clique em "Repository" > "Fetch origin" para verificar por alterações remotas.
+# 6. Por fim se você prcisar fazer alterações no projeto, você deve usar o pull para alterações:
 #    - Clique em "Repository" > "Pull origin" para trazer as alterações locais.
-ç
