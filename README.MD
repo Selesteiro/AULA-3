@@ -46,6 +46,14 @@
 
 ## BRANCH:
 
+1. No github desktop entre na opçao branch e clicar em new branch
+
+2. Apos isso você terá criado um branch
+
+3. Todas as atualizações de informação que voce fizer nessa new filer será no branch
+
+
+
 #### Observações:
 
 - Os usuários convidados receberão um e-mail com o convite e um link para aceitá-lo.
